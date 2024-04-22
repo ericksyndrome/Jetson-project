@@ -1,24 +1,24 @@
 [submodule "poky"]
-	path = poky
+	path = repos/poky
 	url = https://github.com/cu-ecen-aeld/poky.git
 [submodule "meta-mender"]
-	path = meta-mender
+	path = repos/meta-mender
 	url = https://github.com/mendersoftware/meta-mender.git
 [submodule "meta-mender-community"]
-	path = meta-mender-community
+	path = repos/meta-mender-community
 	url = https://github.com/mendersoftware/meta-mender-community.git
 [submodule "meta-openembedded"]
-	path = meta-openembedded
+	path = repos/meta-openembedded
 	url = https://github.com/openembedded/meta-openembedded.git
 [submodule "meta-tegra"]
-	path = meta-tegra
+	path = repos/meta-tegra
 	url = https://github.com/OE4T/meta-tegra.git
 [submodule "meta-tegra-community"]
-	path = meta-tegra-community
+	path = repos/meta-tegra-community
 	url = https://github.com/OE4T/meta-tegra-community.git
 [submodule "meta-virtualization"]
-	path = meta-virtualization
+	path = repos/meta-virtualization
 	url = https://github.com/lgirdk/meta-virtualization.git
 [submodule "meta-nanovision-ai"]
-	path = meta-nanovision-ai
+	path = repos/meta-nanovision-ai
 	url = https://github.com/aasu8675/meta-nanovision-ai.git
